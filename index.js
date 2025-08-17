@@ -12,3 +12,16 @@ console.log(say({
     e: "oO",
     T: "U ",
   }));
+
+  const ali = process.argv[2].toUpperCase();
+console.log(say({
+    text: `${chalk.bgGreen(text)}`,
+    e: "oO",
+    T: "U ",
+  }));
+const mmad = process.argv[2].toUpperCase();
+console.log(say({
+    text: `${chalk.bgGreen(text)}`,
+    e: "oO",
+    T: "U ",
+  }));
